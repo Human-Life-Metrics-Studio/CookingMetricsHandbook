@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/header001.png" width="450">
+</p>
+
 # CookingMetricsHandbook# 
 > **「神がいない日」を機嫌よく生き抜くための、食生活最適化メトリクス**
 
