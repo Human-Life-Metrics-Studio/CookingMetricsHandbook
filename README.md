@@ -36,6 +36,9 @@ Cooking Metricsは「料理のうまさ」ではなく、その食事が生活�
 [ハンドブック（採点の仕方）](docs/handbook.md)  
 [実例集（Case Studies）はこちら](docs/case-studies.md)
 
+
+※野球ファン向けには、WARの料理版です！の一言で伝わると思います※
+
 ### 評価事例
 ![評価事例](images/lader001.png)
 
