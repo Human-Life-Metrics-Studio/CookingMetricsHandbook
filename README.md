@@ -34,7 +34,8 @@ Cooking Metricsは「料理のうまさ」ではなく、その食事が生活�
 だからこそ、『神がいない日』をどう機嫌よく生き抜くかのための指標なのです。  
 
 [ハンドブック（採点の仕方）](docs/handbook.md)  
-[実例集（Case Studies）はこちら](docs/case-studies.md)
+[実例集（Case Studies）はこちら](docs/case-studies.md)  
+[入力アプリなどはこちら](https://github.com/Human-Life-Metrics-Studio/CookingMetricsFront)
 
 
 ※野球ファン向けには、WARの料理版です！の一言で伝わると思います※
