@@ -242,6 +242,10 @@ A. 趣味の楽しいクラフトのついでにゼロ分で料理が沸いて�
 A. CWARはまず調理者であるあなたのコストとリターンの評価をしようとしているため、3人分にかかった時間をそのまま計上してください。  
 　家族の総合的な指標としては[fCWAR](https://github.com/Human-Life-Metrics-Studio/CookingMetricsHandbook/blob/main/docs/appendix/fCWAR.md)という指標があります。
 
+**Q18. パートナーが洗い物してくれました。**  
+A. 洗い物は存在しなかったとして気持ちよく計算しましょう！  
+　（細かいことをいうとfCWARへ影響あるはずなんですが、気持ちよさを優先して計算しましょう）
+ 
 ---
 
 ## ☆ 補助指標：wCWAR（Weekly CWAR）
