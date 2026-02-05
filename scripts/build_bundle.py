@@ -9,8 +9,8 @@ OUT.parent.mkdir(parents=True, exist_ok=True)
 FILES = [
     DOCS / "handbook.md",                 # 本編（例）
     DOCS / "appendix" / "fCWAR.md",        # 付録
-    # DOCS / "appendix" / "wCWAR.md",
-    # DOCS / "appendix" / "xCost.md",
+    DOCS / "appendix" / "wCWAR.md",
+    DOCS / "appendix" / "xCost.md",
 ]
 
 header = """# Cooking Metrics Handbook (Bundle)
