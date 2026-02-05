@@ -3,9 +3,9 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 DOCS = ROOT / "docs"
-OUT = DOCS / "bundle.md"
+OUT = DOCS / "forAI" / "bundle.md"
+OUT.parent.mkdir(parents=True, exist_ok=True)
 
-# 結合したい順番（ここは雨宮さんの構成に合わせて増やしてOK）
 FILES = [
     DOCS / "handbook.md",                 # 本編（例）
     DOCS / "appendix" / "fCWAR.md",        # 付録
