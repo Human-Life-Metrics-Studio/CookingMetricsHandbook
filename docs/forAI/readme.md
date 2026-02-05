@@ -1,5 +1,5 @@
-docs/
-  handbook.md
-  ...
-  forAI/
-    bundle.md
+docs/  
+  handbook.md  
+  ...  
+  forAI/  
+    bundle.md  
