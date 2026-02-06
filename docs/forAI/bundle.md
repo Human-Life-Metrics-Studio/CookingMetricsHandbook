@@ -256,7 +256,12 @@ A. 趣味の楽しいクラフトのついでにゼロ分で料理が沸いて�
 
 **Q17. 3人家族で3人分を作っています。1人分より時間かかるんですが、それで同じ時間スコアなのは酷くないですか？**  
 A. CWARはまず調理者であるあなたのコストとリターンの評価をしようとしているため、3人分にかかった時間をそのまま計上してください。  
-　家族の総合的な指標としては[fCWAR](https://github.com/Human-Life-Metrics-Studio/CookingMetricsHandbook/blob/main/docs/appendix/fCWAR.md)という指標があります。
+　そのうえで、みんなの分を作ってえらいので、満足度に+0.1分くらい甘い採点をしてあげてください。  
+
+　※補足※  
+　家族の総合的な指標としては[fCWAR](https://github.com/Human-Life-Metrics-Studio/CookingMetricsHandbook/blob/main/docs/appendix/fCWAR.md)という指標があります。  
+　調理者以外の調理時間をゼロとして扱って算出するもので、家族ホールディングスの連結決算としてはこちらが正しいです。  
+　ただしこちらは運用にはちょっと重いです。  
 
 **Q18. パートナーが洗い物してくれました。**  
 A. 洗い物は存在しなかったとして気持ちよく計算しましょう！  
