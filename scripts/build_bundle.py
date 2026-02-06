@@ -11,6 +11,7 @@ FILES = [
     DOCS / "appendix" / "fCWAR.md",        # 付録
     DOCS / "appendix" / "wCWAR.md",
     DOCS / "appendix" / "xCost.md",
+    DOCS / "case-studies.md", 
 ]
 
 header = """# Cooking Metrics Handbook (Bundle)
